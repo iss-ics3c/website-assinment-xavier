@@ -1,0 +1,42 @@
+body{
+  background-color: rgb(49, 47, 47);
+  border: 5px solid grey;
+}
+
+.titletext{
+color:lightgrey;
+display: flex;
+justify-content: center;
+background-color: grey;
+}
+
+.text{
+  color:lightgrey;
+  display: flex;
+  justify-content:center;
+  margin: 10%;
+  }
+
+.navbar{
+  display: flex;
+  justify-content: center;
+  
+}
+
+a:link, a:visited {
+  background-color: grey;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+
+a:hover, a:active {
+  background-color: rgb(49, 47, 47);
+}
+
+
+
+
